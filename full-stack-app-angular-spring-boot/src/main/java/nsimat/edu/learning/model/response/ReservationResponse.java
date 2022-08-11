@@ -1,7 +1,5 @@
 package nsimat.edu.learning.model.response;
 
-import org.w3c.dom.stylesheets.LinkStyle;
-
 import lombok.Getter;
 import lombok.Setter;
 import nsimat.edu.learning.model.Links;
